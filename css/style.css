@@ -1,0 +1,152 @@
+#container1{
+    margin : 20px 10px 10px 10px;
+    padding-right : 10px;
+}
+
+#container1 #companyname{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#container1 #drop{
+    border-radius : 25px;
+    float : right;
+}
+
+#container1 #pencil{
+    float : right;
+    margin-left: 10px;
+}
+
+#container1 .downarrow{
+    float : right;
+    margin-left: 10px;
+}
+
+#container1 #month{
+    margin-left: 10px;
+    float:right;
+}
+
+#container1 #year{
+    float:right;
+    margin-left:10px;
+}
+
+#container1 .dash{
+    float:right;
+    margin-left : 10px;
+}
+/*Till Container One*/
+
+#backgrounddiv{
+    background-color :  rgb(111, 116, 116); 
+}
+
+#uparrow{
+    float:right;
+}
+
+#container2{
+    margin : 20px 10px 10px 10px;
+    background-color :rgb(144, 182, 182);
+}
+
+#container2 #innerdiv1{
+    padding: 10px;
+}
+
+#container2 #innerdiv2{
+    padding: 10px;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto;
+    grid-gap: 10px;
+    padding: 10px;
+}
+
+.rightspan{
+    float : right;
+}
+
+.line{
+    border : none;
+    border-bottom: 1px solid gray;
+}
+
+#container3{
+    margin : 20px 10px 10px 10px;
+    border : 1px solid black;
+}
+
+#recyclebin{
+    float : right;
+    
+}
+
+#uarrow{
+    float: right;
+    margin-left : 10px;
+}
+
+#innerdiv31{
+    padding: 10px;
+}
+
+#innerdiv32{
+    padding: 10px;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto;
+    grid-gap: 10px;
+    padding: 10px;
+}
+
+#innerdiv33{
+    padding : 10px;
+}
+
+#div1{
+    margin-top:20px;
+    padding : 10px;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto;
+    grid-gap: 10px;
+    padding: 10px;
+    background-color: rgb(185, 185, 185);
+}
+
+#innerdiv33 > #div2{
+    margin-top:20px;
+    padding : 10px;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto;
+    grid-gap: 10px;
+    padding-left: 0;
+}
+
+#div2 .rightspan{
+    text-align: center;
+}
+
+#innerdiv34 > #div3{
+    padding : 10px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 10px;
+    padding: 10px;
+}
+
+#div4{
+    padding : 10px;
+}
+
+.innerspan1{
+   float : right;
+}
+
+.innerspan2{
+    clear : both;
+    float : right;
+}
+
+
